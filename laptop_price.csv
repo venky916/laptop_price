@@ -1,0 +1,705 @@
+Processor_type,RAM_GB,RAM_type,Disk_Type,Disk_size,OS,Display_inches
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,14
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 10 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,14
+Intel,8 ,DDR4,HDD,1024,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,256,Windows 10 Operating System,14
+AMD Ryzen,16,DDR4,SSD,512,Windows 11 Operating System,14
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,17.3
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,HDD,1024,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+Apple,8 ,DDR4,SSD,256,Mac OS Operating System,13.3
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,14
+Intel,4 ,LPDDR4,HDD,256,DOS Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+Intel,16,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,256,Windows 10 Operating System,14
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,256,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,17.3
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,16,DDR4,SSD,512,Windows 11 Operating System,14
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,14
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,14
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,14
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 10 Operating System,14
+Intel,8 ,DDR4,SSD,512,Windows 10 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,1024,Windows 10 Operating System,14
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,4 ,DDR4,SSD,256,Windows 11 Operating System,14
+AMD Ryzen,16,DDR4,SSD,512,Windows 11 Operating System,14
+Apple,8 ,Unified Memory,SSD,512,Mac OS Operating System,13.3
+AMD Ryzen,16,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,LPDDR4X,SSD,256,Windows 11 Operating System,14
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,HDD,1024,Windows 10 Operating System,15.6
+Intel,8 ,LPDDR4X,SSD,256,Windows 11 Operating System,14
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,16,DDR4,SSD,512,Windows 10 Operating System,15.6
+Apple,16,Unified Memory,SSD,512,Mac OS Operating System,14.2
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+Intel,16,LPDDR4X,SSD,512,Windows 11 Operating System,14
+Apple,8 ,Unified Memory,SSD,512,Mac OS Operating System,13.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+Intel,4 ,DDR4,SSD,256,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,14
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,HDD,1024,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,4 ,DDR4,SSD,256,Windows 11 Operating System,15.6
+Apple,8 ,DDR4,SSD,256,Mac OS Operating System,13.3
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,14
+Intel,8 ,DDR4,SSD,512,Windows 10 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,16,DDR4,SSD,512,Windows 11 Operating System,14
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,16,DDR4,SSD,1024,Windows 10 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,16,DDR4,SSD,1024,Windows 10 Operating System,16
+Intel,8 ,LPDDR4X,SSD,512,Windows 11 Operating System,15.6
+Intel,16,LPDDR5,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,1024,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 10 Operating System,14
+Intel,16,LPDDR4X,SSD,512,Windows 11 Operating System,15.6
+Apple,16,DDR4,SSD,512,Mac OS Operating System,13.3
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,14
+Apple,8 ,DDR4,SSD,512,Mac OS Operating System,13.3
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,LPDDR4X,SSD,256,Windows 11 Operating System,14
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,15.6
+Intel,16,DDR4,SSD,512,Windows 11 Operating System,14
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,LPDDR4X,SSD,256,Windows 11 Operating System,14
+Intel,16,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,16,DDR4,SSD,512,Windows 11 Operating System,14
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,16,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,HDD,1024,Windows 11 Operating System,14
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,HDD,1024,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,14
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,14
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,16.1
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Apple,16,Unified Memory,SSD,1024,Mac OS Operating System,16.2
+Apple,8 ,DDR4,SSD,512,Mac OS Operating System,13.3
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,14
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,14
+Intel,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+Apple,32,Unified Memory,SSD,1024,Mac OS Operating System,16.2
+Intel,16,DDR4,HDD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,512,Windows 10 Operating System,17.3
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Apple,16,Unified Memory,SSD,1024,Mac OS Operating System,14.2
+Intel,4 ,LPDDR4,SSD,128,DOS Operating System,14.1
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,14
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,HDD,1024,Windows 11 Operating System,15.6
+Intel,16,LPDDR4X,SSD,512,Windows 11 Operating System,13.3
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,14
+AMD Ryzen,8 ,DDR4,SSD,256,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,512,Windows 10 Operating System,13.3
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 10 Operating System,15.6
+Intel,4 ,LPDDR4X,SSD,128,Windows 11 Operating System,14
+Intel,16,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,16,LPDDR4,SSD,512,Windows 11 Operating System,13.3
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+Intel,8 ,LPDDR4X,SSD,512,Windows 11 Operating System,14
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 10 Operating System,14
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,256,Windows 11 Operating System,14
+Intel,16,DDR4,SSD,1024,Windows 10 Operating System,15.6
+Intel,16,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,14
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 10 Operating System,15.6
+Intel,8 ,DDR4,HDD,1024,Windows 10 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+Intel,4 ,DDR4,SSD,256,Windows 10 Operating System,14
+Intel,16,LPDDR4X,SSD,512,Windows 11 Operating System,14
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+Intel,8 ,LPDDR4X,SSD,256,Windows 11 Operating System,15.6
+Apple,16,Unified Memory,SSD,512,Mac OS Operating System,16.2
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+Intel,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,16,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,14
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,16,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,16,LPDDR5,SSD,512,Windows 11 Operating System,15.6
+Intel,32,DDR5,SSD,1024,Windows 11 Operating System,16
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,14
+Intel,8 ,DDR4,SSD,256,Windows 10 Operating System,14
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 10 Operating System,15.6
+Apple,8 ,DDR4,SSD,256,Mac OS Operating System,13.3
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,16,DDR4,SSD,1024,Windows 10 Operating System,15.6
+Apple,8 ,Unified Memory,SSD,256,Mac OS Operating System,13.3
+Intel,8 ,DDR4,HDD,1024,Windows 10 Operating System,15.6
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,14
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,16,LPDDR4X,SSD,1024,Windows 10 Operating System,14
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,16,DDR4,SSD,512,Windows 11 Operating System,14
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,16,LPDDR4X,SSD,512,Windows 11 Operating System,13.3
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,14
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,16
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,16,DDR4,SSD,512,Windows 11 Operating System,14
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,14
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,14
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 10 Operating System,14
+Intel,8 ,LPDDR4X,SSD,256,Windows 11 Operating System,14
+AMD Ryzen,16,LPDDR5,SSD,1024,Windows 11 Operating System,13.4
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,16,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+Intel,8 ,LPDDR4X,SSD,256,Windows 11 Operating System,14
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,512,Windows 11 Operating System,13.3
+Intel,16,DDR4,SSD,1024,Windows 10 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,HDD,1024,Windows 10 Operating System,15.6
+AMD Ryzen,16,DDR4,HDD,1024,Windows 10 Operating System,15.6
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,14
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Apple,8 ,Unified Memory,SSD,512,Mac OS Operating System,13.6
+Intel,16,DDR5,SSD,1024,Windows 11 Operating System,17.3
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+Intel,16,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,14
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,14
+AMD Ryzen,16,DDR5,SSD,512,Windows 11 Operating System,15.6
+Intel,16,LPDDR4X,SSD,512,Windows 11 Operating System,14
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,14
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,16,DDR5,SSD,1024,Windows 11 Operating System,17.3
+Apple,8 ,Unified Memory,SSD,512,Mac OS Operating System,13.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,14
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,14
+Intel,16,DDR4,SSD,512,Windows 10 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,14
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,LPDDR5,SSD,512,Windows 11 Operating System,13.3
+Apple,16,Unified Memory,SSD,1024,Mac OS Operating System,16.2
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 10 Operating System,15.6
+Intel,8 ,DDR4,HDD,1024,Windows 10 Operating System,15.6
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,14
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 10 Operating System,15.6
+Intel,16,DDR4,SSD,512,Windows 10 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,14
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,16,LPDDR4X,SSD,512,Windows 11 Operating System,14
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,HDD,1024,Windows 10 Operating System,15.6
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,14
+Intel,8 ,DDR4,SSD,1024,Windows 11 Operating System,15.6
+Apple,16,Unified Memory,SSD,512,Mac OS Operating System,16.2
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,14
+Intel,16,DDR5,SSD,1024,Windows 11 Operating System,17.3
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,14
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 10 Operating System,15.6
+Intel,8 ,DDR4,HDD,1024,Windows 10 Operating System,15.6
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,14
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,16,DDR5,SSD,512,Windows 11 Operating System,15.6
+Intel,16,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,16,LPDDR4X,SSD,512,Windows 11 Operating System,14
+Intel,8 ,DDR4,HDD,1024,Windows 10 Operating System,14
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Apple,8 ,DDR4,SSD,1024,Mac OS Operating System,13.3
+Intel,8 ,DDR4,SSD,512,Windows 10 Operating System,14
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,15.6
+Intel,8 ,LPDDR4X,SSD,512,Windows 11 Operating System,14
+Intel,8 ,DDR4,SSD,512,Windows 10 Operating System,14
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,4 ,DDR4,SSD,256,Windows 10 Operating System,15.6
+Intel,8 ,DDR4,SSD,256,Windows 10 Operating System,14
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,14
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,256,Windows 11 Operating System,15.6
+Intel,16,DDR5,SSD,1024,Windows 11 Operating System,17.3
+Intel,16,LPDDR5,SSD,1024,Windows 11 Operating System,13.4
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,16.1
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+Intel,16,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,256,Windows 11 Operating System,15.6
+Intel,4 ,DDR4,SSD,256,Windows 10 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,512,Windows 11 Operating System,16
+Intel,32,DDR5,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,15
+Intel,16,DDR4,SSD,512,Windows 10 Operating System,13
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,14.96
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+Intel,4 ,DDR4,SSD,256,Windows 10 Operating System,15
+Intel,16,LPDDR4X,SSD,512,Windows 11 Operating System,13.5
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,14
+Intel,8 ,DDR4,HDD,1024,Windows 10 Operating System,15.6
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,14
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,14
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,16,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,HDD,1024,Windows 10 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 10 Operating System,14
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 10 Operating System,14
+Intel,32,DDR5,SSD,1024,Windows 11 Operating System,16
+Intel,16,DDR4,SSD,512,Windows 10 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 10 Operating System,14
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,14
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 10 Operating System,14
+Intel,16,DDR4,HDD,1024,Windows 10 Operating System,15.6
+Intel,16,LPDDR4X,SSD,512,Windows 11 Operating System,14
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+Intel,16,LPDDR4X,SSD,512,Windows 10 Operating System,14
+Intel,8 ,DDR4,SSD,512,Windows 10 Operating System,15.6
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,14
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,HDD,1024,Windows 10 Operating System,15.6
+Intel,16,DDR4,SSD,1024,Windows 10 Operating System,15.6
+Intel,32,DDR5,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,256,Windows 10 Operating System,14
+Intel,8 ,DDR4,SSD,256,Windows 10 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,16.1
+AMD Ryzen,16,LPDDR4X,SSD,512,Windows 11 Operating System,14
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+Intel,16,DDR4,SSD,1024,Windows 10 Operating System,14
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+Intel,4 ,DDR4,SSD,256,DOS Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 10 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,16,DDR4,SSD,512,Windows 10 Operating System,15.6
+Intel,4 ,DDR4,SSD,256,Windows 10 Operating System,11.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,16.1
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,14
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,1024,Windows 10 Operating System,14
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 10 Operating System,15.6
+Intel,16,DDR4,SSD,512,Windows 10 Operating System,15.6
+Intel,16,DDR4,SSD,512,Windows 11 Operating System,14
+Intel,16,LPDDR4X,SSD,512,Windows 10 Operating System,14
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,14
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 10 Operating System,15.6
+Intel,16,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,14
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,14.1
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,14
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,4 ,DDR4,HDD,1024,Windows 10 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,16.1
+Intel,4 ,DDR4,HDD,1024,Windows 10 Operating System,15.6
+Intel,32,DDR5,SSD,2048,Windows 11 Operating System,17.3
+Intel,16,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,HDD,1024,Windows 10 Operating System,15.6
+Intel,4 ,DDR4,HDD,1024,Windows 10 Operating System,14
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+Intel,16,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,DOS Operating System,14
+Intel,16,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,256,Windows 10 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+Intel,8 ,LPDDR4X,SSD,512,Windows 11 Operating System,14
+Intel,4 ,DDR4,SSD,128,Windows 11 Operating System,11.6
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,14
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,16,LPDDR4X,SSD,512,Windows 10 Operating System,14
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,16,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,4 ,DDR4,HDD,1024,Windows 10 Operating System,14
+AMD Ryzen,8 ,DDR4,SSD,256,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,4 ,DDR4,SSD,256,Windows 11 Operating System,14
+AMD Ryzen,8 ,DDR4,SSD,256,Windows 10 Operating System,15.6
+Intel,4 ,DDR4,SSD,128,Windows 11 Operating System,11.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,LPDDR4X,SSD,512,Windows 11 Operating System,14
+Intel,8 ,LPDDR4X,SSD,512,Windows 11 Operating System,14
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,1024,Windows 10 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 10 Operating System,14
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,14
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,HDD,1024,Windows 10 Operating System,15.6
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,HDD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,1024,Windows 10 Operating System,15.6
+Intel,4 ,DDR4,SSD,256,Windows 11 Operating System,14
+AMD Ryzen,16,DDR4,SSD,512,Windows 11 Operating System,16.6
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,LPDDR4X,SSD,512,Windows 11 Operating System,13.3
+Intel,4 ,LPDDR4X,SSD,128,Windows 11 Operating System,14
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,HDD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,16,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,HDD,1024,Windows 10 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 10 Operating System,15.6
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+Intel,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+Intel,4 ,LPDDR4,SSD,128,Windows 11 Operating System,14.1
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+Intel,4 ,DDR4,HDD,1024,Windows 10 Operating System,15.6
+Intel,8 ,LPDDR4X,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+Intel,4 ,DDR4,SSD,256,Windows 10 Operating System,14
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,14
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,32,DDR5,SSD,1024,Windows 11 Operating System,17.3
+Intel,8 ,DDR4,HDD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,HDD,1024,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,1024,Windows 10 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,14
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,16,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+Intel,16,DDR4,SSD,512,Windows 11 Operating System,14
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,32,DDR5,SSD,2048,Windows 11 Operating System,16
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+Intel,16,DDR4,SSD,512,Windows 10 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 10 Operating System,14
+Intel,8 ,DDR5,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,15.6
+AMD Ryzen,32,DDR5,SSD,2048,Windows 11 Operating System,16
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,HDD,1024,Windows 11 Operating System,14
+Intel,8 ,DDR5,SSD,512,Windows 11 Operating System,15.6
+Intel,16,DDR4,HDD,1024,Windows 10 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,16,DDR4,SSD,512,Windows 10 Operating System,15.6
+Intel,8 ,DDR4,HDD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,16.1
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+Intel,16,DDR4,SSD,512,Windows 10 Operating System,14
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR5,SSD,512,Windows 11 Operating System,16.1
+Intel,16,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,16,DDR4,SSD,512,Windows 11 Operating System,14
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR5,SSD,512,Windows 11 Operating System,16.1
+Intel,32,DDR5,SSD,2048,Windows 11 Operating System,17.3
+Intel,8 ,DDR4,HDD,1024,Windows 11 Operating System,15
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,14
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,32,DDR5,SSD,2048,Windows 11 Operating System,16
+Intel,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 10 Operating System,15.6
+Intel,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 10 Operating System,14
+Intel,16,DDR4,SSD,512,Windows 10 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,HDD,1024,Windows 10 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,16
+AMD Ryzen,32,DDR5,SSD,2048,Windows 11 Operating System,16
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,16
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+Intel,4 ,DDR4,SSD,256,Windows 10 Operating System,15
+Intel,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+Intel,16,DDR4,HDD,1024,Windows 10 Operating System,15.6
+Intel,16,DDR4,SSD,512,Windows 10 Operating System,14
+Intel,8 ,DDR4,HDD,1024,Windows 10 Operating System,15.6
+Intel,32,DDR4,SSD,1024,Windows 11 Operating System,17.3
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,14
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,32,DDR4,SSD,1024,Windows 10 Operating System,15.6
+Intel,16,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+Intel,16,DDR4,SSD,512,Windows 10 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,256,Windows 10 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+Intel,4 ,DDR4,SSD,256,Windows 11 Operating System,11.6
+Intel,8 ,DDR4,SSD,256,Windows 10 Operating System,14
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 10 Operating System,14
+Intel,16,DDR4,SSD,1024,Windows 10 Operating System,15.6
+Intel,8 ,DDR4,HDD,128,Windows 10 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,16,DDR4,SSD,512,Windows 10 Operating System,14
+AMD Ryzen,16,LPDDR5,SSD,1024,Windows 11 Operating System,13.3
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,14
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,32,DDR4,SSD,1024,Windows 10 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 10 Operating System,14
+AMD Ryzen,16,DDR4,SSD,512,Windows 11 Operating System,16
+AMD Ryzen,32,LPDDR4X,SSD,1024,Windows 10 Operating System,13.4
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+Intel,8 ,LPDDR4X,SSD,512,Windows 11 Operating System,15.6
+Intel,16,LPDDR5,SSD,512,Windows 11 Operating System,13.4
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,256,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,1024,Windows 10 Operating System,15.6
+Intel,32,DDR4,SSD,1024,Windows 10 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,HDD,1024,Windows 10 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 10 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,HDD,1024,Windows 10 Operating System,14.1
+Intel,8 ,DDR4,SSD,256,Windows 10 Operating System,14
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 10 Operating System,15.6
+Intel,8 ,DDR4,SSD,256,Windows 10 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,1024,Windows 10 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 10 Operating System,15.6
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,16,DDR5,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 10 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,512,Windows 11 Operating System,16
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,16,DDR4,SSD,1024,Windows 10 Operating System,15.6
+Intel,16,DDR4,SSD,512,Windows 10 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,14
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,14
+Intel,16,DDR5,SSD,1024,Windows 11 Operating System,16
+Intel,8 ,DDR4,SSD,256,Windows 11 Operating System,14
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+Intel,16,DDR4,SSD,512,Windows 11 Operating System,14
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+Intel,16,LPDDR4X,SSD,512,Windows 11 Operating System,14
+Intel,16,DDR4,SSD,1024,Windows 11 Operating System,16
+Intel,16,DDR5,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,16
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+Intel,8 ,DDR4,HDD,1024,Windows 10 Operating System,15.6
+AMD Ryzen,16,LPDDR5,SSD,1024,Windows 11 Operating System,13.4
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR4,SSD,1024,Windows 11 Operating System,15.6
+Intel,16,LPDDR3,SSD,2048,Windows 10 Operating System,14
+Intel,16,DDR5,SSD,512,Windows 11 Operating System,13.3
+AMD Ryzen,16,DDR4,SSD,512,Windows 10 Operating System,15.6
+AMD Ryzen,8 ,DDR4,SSD,512,Windows 11 Operating System,15.6
+AMD Ryzen,16,DDR5,SSD,1024,Windows 11 Operating System,15.6
+Intel,16,LPDDR5,SSD,512,Windows 11 Operating System,14
+Intel,8 ,DDR4,HDD,1024,Windows 10 Operating System,15.6
